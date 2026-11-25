@@ -1,0 +1,281 @@
+@media (max-width: 1000px) {
+  .nav {
+    gap: 14px;
+  }
+  .nav nav {
+    gap: 14px;
+  }
+  .search input {
+    width: 100px;
+  }
+  .categories {
+    gap: 7px;
+  }
+  .herocopy {
+    max-width: 65%;
+  }
+  .grid {
+    gap: 14px;
+  }
+  .catalog {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 760px) {
+  .wrap {
+    width: 92%;
+  }
+  .nav {
+    min-height: 60px;
+    flex-wrap: wrap;
+    padding: 10px 0;
+    gap: 8px;
+  }
+  .nav nav {
+    display: none;
+  }
+  .search {
+    max-width: 33%;
+    padding: 5px 8px;
+  }
+  .search input {
+    width: 100%;
+    font-size: 12px;
+  }
+  .tools {
+    gap: 0;
+  }
+  .tools a {
+    padding: 4px;
+  }
+  .tools a:last-child {
+    display: none;
+  }
+  .logo {
+    font-size: 18px;
+  }
+  .logo img {
+    width: 27px;
+  }
+  .announce {
+    font-size: 10px;
+    padding: 5px;
+  }
+  .announce span {
+    margin: 0 3px;
+  }
+  .home {
+    padding-top: 13px;
+  }
+  .hero {
+    min-height: 465px;
+    align-items: flex-start;
+  }
+  .hero > img {
+    height: 61%;
+    top: auto;
+    bottom: 0;
+    object-position: 70% center;
+  }
+  .hero:before {
+    background: linear-gradient(
+      180deg,
+      #f3ead9 0%,
+      #f3ead9 38%,
+      #f3ead9b0 50%,
+      transparent 65%
+    );
+  }
+  .herocopy {
+    padding: 23px 6%;
+    max-width: 100%;
+  }
+  .hero h1 {
+    font-size: clamp(37px, 7.8vw, 52px);
+  }
+  .herocopy p {
+    max-width: 320px;
+    font-size: 14px;
+  }
+  .eyeline {
+    font-size: 10px;
+  }
+  .hero .actions {
+    margin-top: 12px;
+  }
+  .hero .actions a {
+    font-size: 13px;
+    padding: 8px 10px;
+  }
+  .service {
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    padding: 16px 0;
+  }
+  .service > div {
+    justify-content: flex-start;
+    border: none;
+    padding-left: 5px;
+  }
+  .service b {
+    font-size: 12px;
+  }
+  .service small {
+    font-size: 11px;
+  }
+  .service svg {
+    width: 23px;
+  }
+  .categories {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .categories a {
+    padding: 12px 2px;
+  }
+  .categories b {
+    font-size: 11px;
+  }
+  .categories svg {
+    width: 25px;
+  }
+  .grid,
+  .catalog {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px 10px;
+  }
+  .card h3 {
+    font-size: 15px;
+  }
+  .meta {
+    font-size: 10px;
+  }
+  .price,
+  .price del {
+    font-size: 13px;
+  }
+  .price {
+    gap: 4px;
+  }
+  .price button {
+    padding: 4px;
+  }
+  .quick {
+    font-size: 11px;
+    padding: 4px 8px;
+  }
+  .discount {
+    left: 6px;
+    top: 7px;
+  }
+  .heart {
+    top: 5px;
+    right: 5px;
+    padding: 6px;
+  }
+  .sectionhead {
+    gap: 8px;
+  }
+  .sectionhead > a {
+    white-space: nowrap;
+  }
+  .offer,
+  .newsletter {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .newsletter form {
+    gap: 5px;
+  }
+  .newsletter input {
+    width: 160px;
+  }
+  .browse,
+  .split,
+  .detail {
+    grid-template-columns: 1fr;
+  }
+  .filters {
+    grid-template-columns: 1fr 1fr;
+    padding: 12px;
+    gap: 8px;
+  }
+  .filters h3 {
+    grid-column: span 2;
+  }
+  .filters label {
+    font-size: 12px;
+  }
+  .filters input,
+  .filters select {
+    width: 100%;
+  }
+  .foot {
+    gap: 25px;
+  }
+  .foot .logo {
+    width: 100%;
+  }
+  .rowitem {
+    grid-template-columns: 60px 1fr auto;
+    font-size: 14px;
+    gap: 9px;
+  }
+  .rowitem h3 {
+    font-size: 15px;
+  }
+  .quickdetail > img {
+    max-height: 210px;
+    justify-self: center;
+  }
+  .quickdetail {
+    gap: 12px;
+  }
+  dialog {
+    padding: 18px;
+  }
+  .toolbar select {
+    max-width: 160px;
+  }
+  #bottom {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    justify-content: space-around;
+    padding: 7px 0 max(7px, env(safe-area-inset-bottom));
+    background: var(--paper);
+    border-top: 1px solid var(--line);
+    z-index: 8;
+  }
+  #bottom a {
+    display: grid;
+    justify-items: center;
+    font-size: 10px;
+    gap: 2px;
+    padding: 2px 7px;
+  }
+  body {
+    padding-bottom: 64px;
+  }
+  #toast {
+    bottom: 70px;
+    width: max-content;
+    max-width: 92%;
+  }
+  .home section {
+    margin: 26px 0;
+  }
+  .home section.hero {
+    margin: 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *:before,
+  *:after {
+    scroll-behavior: auto !important;
+    animation: none !important;
+    transition: none !important;
+  }
+}

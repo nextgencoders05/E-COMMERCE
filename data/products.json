@@ -1,0 +1,1175 @@
+[
+  {
+    "id": "AM-036",
+    "name": "Arc Leather Handbag",
+    "category": "Accessories",
+    "brand": "Atelier Rue",
+    "price": 3299,
+    "originalPrice": 3799,
+    "discount": 13,
+    "rating": 4.5,
+    "stock": 9,
+    "description": "A structured handbag with a curved handle and warm gold-tone hardware.",
+    "images": [
+      "assets/images/product-36.webp",
+      "assets/images/product-36-detail.webp"
+    ],
+    "colors": [
+      "Forest",
+      "Midnight"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Atelier Rue",
+      "Finish / format": "Leather",
+      "Colour": "Forest"
+    },
+    "popularity": 102,
+    "createdAt": "2026-09-25"
+  },
+  {
+    "id": "AM-001",
+    "name": "Studio Wireless Headphones",
+    "category": "Electronics",
+    "brand": "Auralab",
+    "price": 3499,
+    "originalPrice": 3999,
+    "discount": 13,
+    "rating": 4.8,
+    "stock": 2,
+    "description": "Cushioned over-ear design with a fold-flat headband.",
+    "images": [
+      "assets/images/product-01.webp",
+      "assets/images/product-01-detail.webp"
+    ],
+    "colors": [
+      "Ivory"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Auralab",
+      "Finish / format": "Over-ear",
+      "Colour": "Ivory"
+    },
+    "popularity": 85,
+    "createdAt": "2026-11-24"
+  },
+  {
+    "id": "AM-016",
+    "name": "Court Leather Sneakers",
+    "category": "Footwear",
+    "brand": "Forma",
+    "price": 2899,
+    "originalPrice": 3399,
+    "discount": 15,
+    "rating": 4.3,
+    "stock": 29,
+    "description": "Minimal low-top sneakers with a cushioned footbed and rubber sole.",
+    "images": [
+      "assets/images/product-16.webp",
+      "assets/images/product-16-detail.webp"
+    ],
+    "colors": [
+      "White",
+      "Midnight"
+    ],
+    "sizes": [
+      "UK 6",
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "specifications": {
+      "Collection": "Forma",
+      "Finish / format": "Leather",
+      "Colour": "White"
+    },
+    "popularity": 154,
+    "createdAt": "2026-10-14"
+  },
+  {
+    "id": "AM-021",
+    "name": "Atelier Gold Watch",
+    "category": "Watches",
+    "brand": "Meridian",
+    "price": 4499,
+    "originalPrice": 4999,
+    "discount": 10,
+    "rating": 4.7,
+    "stock": 38,
+    "description": "A refined analog watch with a gold-tone finish and a slender case.",
+    "images": [
+      "assets/images/product-21.webp",
+      "assets/images/product-21-detail.webp"
+    ],
+    "colors": [
+      "Gold"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Meridian",
+      "Finish / format": "Quartz",
+      "Colour": "Gold"
+    },
+    "popularity": 33,
+    "createdAt": "2026-11-05"
+  },
+  {
+    "id": "AM-006",
+    "name": "Coastal Linen Shirt",
+    "category": "Men's Fashion",
+    "brand": "Northline",
+    "price": 1899,
+    "originalPrice": 2399,
+    "discount": 21,
+    "rating": 3.9,
+    "stock": 11,
+    "description": "A breathable linen shirt with an easy fit and softly rolled sleeves.",
+    "images": [
+      "assets/images/product-06.webp",
+      "assets/images/product-06-detail.webp"
+    ],
+    "colors": [
+      "Sand",
+      "Midnight"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": {
+      "Collection": "Northline",
+      "Finish / format": "Linen",
+      "Colour": "Sand"
+    },
+    "popularity": 180,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "AM-031",
+    "name": "Forma Ceramic Vase",
+    "category": "Home and Living",
+    "brand": "Terra Studio",
+    "price": 1299,
+    "originalPrice": 1799,
+    "discount": 28,
+    "rating": 4.9,
+    "stock": 56,
+    "description": "A sculptural ceramic vase with a soft matte glaze for stems or branches.",
+    "images": [
+      "assets/images/product-31.webp",
+      "assets/images/product-31-detail.webp"
+    ],
+    "colors": [
+      "Chalk"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Terra Studio",
+      "Finish / format": "Stoneware",
+      "Colour": "Chalk"
+    },
+    "popularity": 223,
+    "createdAt": "2026-09-03"
+  },
+  {
+    "id": "AM-026",
+    "name": "Daily Botanical Serum",
+    "category": "Beauty Products",
+    "brand": "Botanique",
+    "price": 899,
+    "originalPrice": 1399,
+    "discount": 36,
+    "rating": 4.6,
+    "stock": 47,
+    "description": "A lightweight facial serum in an amber glass dropper bottle.",
+    "images": [
+      "assets/images/product-26.webp",
+      "assets/images/product-26-detail.webp"
+    ],
+    "colors": [
+      "Amber"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Botanique",
+      "Finish / format": "30 ml",
+      "Colour": "Amber"
+    },
+    "popularity": 128,
+    "createdAt": "2026-08-12"
+  },
+  {
+    "id": "AM-011",
+    "name": "Summer Linen Dress",
+    "category": "Women's Fashion",
+    "brand": "Maison Vale",
+    "price": 2699,
+    "originalPrice": 3199,
+    "discount": 16,
+    "rating": 4.1,
+    "stock": 20,
+    "description": "An airy linen dress with an easy silhouette and a soft finish.",
+    "images": [
+      "assets/images/product-11.webp",
+      "assets/images/product-11-detail.webp"
+    ],
+    "colors": [
+      "Ivory",
+      "Midnight"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": {
+      "Collection": "Maison Vale",
+      "Finish / format": "Linen",
+      "Colour": "Ivory"
+    },
+    "popularity": 59,
+    "createdAt": "2026-09-22"
+  },
+  {
+    "id": "AM-002",
+    "name": "Pocket Bluetooth Speaker",
+    "category": "Electronics",
+    "brand": "Auralab",
+    "price": 1799,
+    "originalPrice": 2999,
+    "discount": 40,
+    "rating": 4.6,
+    "stock": 15,
+    "description": "Compact speaker with tactile controls for listening at home or on the go.",
+    "images": [
+      "assets/images/product-02.webp",
+      "assets/images/product-02-detail.webp"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Auralab",
+      "Finish / format": "Portable",
+      "Colour": "Black"
+    },
+    "popularity": 104,
+    "createdAt": "2026-11-07"
+  },
+  {
+    "id": "AM-003",
+    "name": "Everyday Compact Camera",
+    "category": "Electronics",
+    "brand": "Auralab",
+    "price": 12499,
+    "originalPrice": 13199,
+    "discount": 5,
+    "rating": 4.1,
+    "stock": 28,
+    "description": "A pocket-friendly camera with a metallic body and a comfortable wrist grip.",
+    "images": [
+      "assets/images/product-03.webp",
+      "assets/images/product-03-detail.webp"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Auralab",
+      "Finish / format": "Compact",
+      "Colour": "Silver"
+    },
+    "popularity": 123,
+    "createdAt": "2026-10-21"
+  },
+  {
+    "id": "AM-004",
+    "name": "Air Mini Earbuds",
+    "category": "Electronics",
+    "brand": "Auralab",
+    "price": 2299,
+    "originalPrice": 3899,
+    "discount": 41,
+    "rating": 4.5,
+    "stock": 41,
+    "description": "Lightweight earbuds with a matching pocket charging case.",
+    "images": [
+      "assets/images/product-04.webp",
+      "assets/images/product-04-detail.webp"
+    ],
+    "colors": [
+      "Ivory"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Auralab",
+      "Finish / format": "In-ear",
+      "Colour": "Ivory"
+    },
+    "popularity": 142,
+    "createdAt": "2026-10-04"
+  },
+  {
+    "id": "AM-005",
+    "name": "Desk Mechanical Keyboard",
+    "category": "Electronics",
+    "brand": "Auralab",
+    "price": 4499,
+    "originalPrice": 5399,
+    "discount": 17,
+    "rating": 4.7,
+    "stock": 54,
+    "description": "A compact keyboard with sculpted keycaps and a low-profile frame.",
+    "images": [
+      "assets/images/product-05.webp",
+      "assets/images/product-05-detail.webp"
+    ],
+    "colors": [
+      "Forest"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Auralab",
+      "Finish / format": "Desktop",
+      "Colour": "Forest"
+    },
+    "popularity": 161,
+    "createdAt": "2026-09-17"
+  },
+  {
+    "id": "AM-007",
+    "name": "Field Cotton Overshirt",
+    "category": "Men's Fashion",
+    "brand": "Northline",
+    "price": 2499,
+    "originalPrice": 3699,
+    "discount": 32,
+    "rating": 4.9,
+    "stock": 24,
+    "description": "A structured layering shirt with a relaxed fit and patch pockets.",
+    "images": [
+      "assets/images/product-07.webp",
+      "assets/images/product-07-detail.webp"
+    ],
+    "colors": [
+      "Forest",
+      "Midnight"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": {
+      "Collection": "Northline",
+      "Finish / format": "Cotton twill",
+      "Colour": "Forest"
+    },
+    "popularity": 199,
+    "createdAt": "2026-08-14"
+  },
+  {
+    "id": "AM-008",
+    "name": "Essential Piqué Polo",
+    "category": "Men's Fashion",
+    "brand": "Northline",
+    "price": 1199,
+    "originalPrice": 1899,
+    "discount": 37,
+    "rating": 4.3,
+    "stock": 37,
+    "description": "A lightly textured polo with a neat collar and soft ribbed cuffs.",
+    "images": [
+      "assets/images/product-08.webp",
+      "assets/images/product-08-detail.webp"
+    ],
+    "colors": [
+      "Navy",
+      "Sand"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": {
+      "Collection": "Northline",
+      "Finish / format": "Cotton piqué",
+      "Colour": "Navy"
+    },
+    "popularity": 218,
+    "createdAt": "2026-11-12"
+  },
+  {
+    "id": "AM-009",
+    "name": "Straight Indigo Jeans",
+    "category": "Men's Fashion",
+    "brand": "Northline",
+    "price": 2199,
+    "originalPrice": 3799,
+    "discount": 42,
+    "rating": 4.8,
+    "stock": 50,
+    "description": "Straight-leg denim with an everyday mid-rise fit.",
+    "images": [
+      "assets/images/product-09.webp",
+      "assets/images/product-09-detail.webp"
+    ],
+    "colors": [
+      "Indigo",
+      "Midnight"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": {
+      "Collection": "Northline",
+      "Finish / format": "Denim",
+      "Colour": "Indigo"
+    },
+    "popularity": 21,
+    "createdAt": "2026-10-26"
+  },
+  {
+    "id": "AM-010",
+    "name": "Merino Blend Pullover",
+    "category": "Men's Fashion",
+    "brand": "Northline",
+    "price": 2399,
+    "originalPrice": 3299,
+    "discount": 27,
+    "rating": 4.6,
+    "stock": 7,
+    "description": "A fine-knit pullover with a crew neckline and a soft drape.",
+    "images": [
+      "assets/images/product-10.webp",
+      "assets/images/product-10-detail.webp"
+    ],
+    "colors": [
+      "Oat",
+      "Midnight"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": {
+      "Collection": "Northline",
+      "Finish / format": "Wool blend",
+      "Colour": "Oat"
+    },
+    "popularity": 40,
+    "createdAt": "2026-10-09"
+  },
+  {
+    "id": "AM-012",
+    "name": "Ribbed Everyday Blouse",
+    "category": "Women's Fashion",
+    "brand": "Maison Vale",
+    "price": 1499,
+    "originalPrice": 2699,
+    "discount": 44,
+    "rating": 4.5,
+    "stock": 33,
+    "description": "A soft ribbed blouse designed for everyday layering.",
+    "images": [
+      "assets/images/product-12.webp",
+      "assets/images/product-12-detail.webp"
+    ],
+    "colors": [
+      "Cream",
+      "Midnight"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": {
+      "Collection": "Maison Vale",
+      "Finish / format": "Cotton knit",
+      "Colour": "Cream"
+    },
+    "popularity": 78,
+    "createdAt": "2026-09-05"
+  },
+  {
+    "id": "AM-013",
+    "name": "Terracotta Midi Skirt",
+    "category": "Women's Fashion",
+    "brand": "Maison Vale",
+    "price": 1699,
+    "originalPrice": 2399,
+    "discount": 29,
+    "rating": 4.7,
+    "stock": 46,
+    "description": "A flowing midi skirt with gentle movement and a comfortable waistband.",
+    "images": [
+      "assets/images/product-13.webp",
+      "assets/images/product-13-detail.webp"
+    ],
+    "colors": [
+      "Rust",
+      "Midnight"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": {
+      "Collection": "Maison Vale",
+      "Finish / format": "Viscose",
+      "Colour": "Rust"
+    },
+    "popularity": 97,
+    "createdAt": "2026-08-19"
+  },
+  {
+    "id": "AM-014",
+    "name": "Sage Knit Cardigan",
+    "category": "Women's Fashion",
+    "brand": "Maison Vale",
+    "price": 1999,
+    "originalPrice": 3599,
+    "discount": 44,
+    "rating": 3.9,
+    "stock": 3,
+    "description": "An everyday cardigan with fine ribbing and a relaxed shape.",
+    "images": [
+      "assets/images/product-14.webp",
+      "assets/images/product-14-detail.webp"
+    ],
+    "colors": [
+      "Sage",
+      "Midnight"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": {
+      "Collection": "Maison Vale",
+      "Finish / format": "Cotton blend",
+      "Colour": "Sage"
+    },
+    "popularity": 116,
+    "createdAt": "2026-11-17"
+  },
+  {
+    "id": "AM-015",
+    "name": "Silk Square Scarf",
+    "category": "Women's Fashion",
+    "brand": "Maison Vale",
+    "price": 1099,
+    "originalPrice": 1999,
+    "discount": 45,
+    "rating": 4.9,
+    "stock": 16,
+    "description": "A lightweight scarf with a smooth finish and finely rolled edges.",
+    "images": [
+      "assets/images/product-15.webp",
+      "assets/images/product-15-detail.webp"
+    ],
+    "colors": [
+      "Peach",
+      "Midnight"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Maison Vale",
+      "Finish / format": "Silk blend",
+      "Colour": "Peach"
+    },
+    "popularity": 135,
+    "createdAt": "2026-10-31"
+  },
+  {
+    "id": "AM-017",
+    "name": "Suede Penny Loafers",
+    "category": "Footwear",
+    "brand": "Forma",
+    "price": 3199,
+    "originalPrice": 4399,
+    "discount": 27,
+    "rating": 4.8,
+    "stock": 42,
+    "description": "Soft suede loafers with hand-finished seams and a flexible sole.",
+    "images": [
+      "assets/images/product-17.webp",
+      "assets/images/product-17-detail.webp"
+    ],
+    "colors": [
+      "Tan",
+      "Midnight"
+    ],
+    "sizes": [
+      "UK 6",
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "specifications": {
+      "Collection": "Forma",
+      "Finish / format": "Suede",
+      "Colour": "Tan"
+    },
+    "popularity": 173,
+    "createdAt": "2026-09-27"
+  },
+  {
+    "id": "AM-018",
+    "name": "Cloud Runner Trainers",
+    "category": "Footwear",
+    "brand": "Forma",
+    "price": 2599,
+    "originalPrice": 3299,
+    "discount": 21,
+    "rating": 4.6,
+    "stock": 55,
+    "description": "Lightweight trainers with a breathable upper and cushioned sole.",
+    "images": [
+      "assets/images/product-18.webp",
+      "assets/images/product-18-detail.webp"
+    ],
+    "colors": [
+      "Charcoal",
+      "Sand"
+    ],
+    "sizes": [
+      "UK 6",
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "specifications": {
+      "Collection": "Forma",
+      "Finish / format": "Mesh",
+      "Colour": "Charcoal"
+    },
+    "popularity": 192,
+    "createdAt": "2026-09-10"
+  },
+  {
+    "id": "AM-019",
+    "name": "Weekend Leather Sandals",
+    "category": "Footwear",
+    "brand": "Forma",
+    "price": 1799,
+    "originalPrice": 3399,
+    "discount": 47,
+    "rating": 4.1,
+    "stock": 12,
+    "description": "Open leather sandals with broad straps and a contoured footbed.",
+    "images": [
+      "assets/images/product-19.webp",
+      "assets/images/product-19-detail.webp"
+    ],
+    "colors": [
+      "Tan",
+      "Midnight"
+    ],
+    "sizes": [
+      "UK 6",
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "specifications": {
+      "Collection": "Forma",
+      "Finish / format": "Leather",
+      "Colour": "Tan"
+    },
+    "popularity": 211,
+    "createdAt": "2026-08-24"
+  },
+  {
+    "id": "AM-020",
+    "name": "City Ankle Boots",
+    "category": "Footwear",
+    "brand": "Forma",
+    "price": 3699,
+    "originalPrice": 4599,
+    "discount": 20,
+    "rating": 4.5,
+    "stock": 25,
+    "description": "A clean ankle boot with a supportive heel and a smooth finish.",
+    "images": [
+      "assets/images/product-20.webp",
+      "assets/images/product-20-detail.webp"
+    ],
+    "colors": [
+      "Black",
+      "Sand"
+    ],
+    "sizes": [
+      "UK 6",
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "specifications": {
+      "Collection": "Forma",
+      "Finish / format": "Leather",
+      "Colour": "Black"
+    },
+    "popularity": 230,
+    "createdAt": "2026-11-22"
+  },
+  {
+    "id": "AM-022",
+    "name": "Steel Bracelet Watch",
+    "category": "Watches",
+    "brand": "Meridian",
+    "price": 3999,
+    "originalPrice": 5199,
+    "discount": 23,
+    "rating": 3.9,
+    "stock": 51,
+    "description": "Brushed steel links complement a clean, readable dial.",
+    "images": [
+      "assets/images/product-22.webp",
+      "assets/images/product-22-detail.webp"
+    ],
+    "colors": [
+      "Silver"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Meridian",
+      "Finish / format": "Quartz",
+      "Colour": "Silver"
+    },
+    "popularity": 52,
+    "createdAt": "2026-10-19"
+  },
+  {
+    "id": "AM-023",
+    "name": "Heritage Leather Watch",
+    "category": "Watches",
+    "brand": "Meridian",
+    "price": 3499,
+    "originalPrice": 4199,
+    "discount": 17,
+    "rating": 4.9,
+    "stock": 8,
+    "description": "A classic round dial paired with a supple leather strap.",
+    "images": [
+      "assets/images/product-23.webp",
+      "assets/images/product-23-detail.webp"
+    ],
+    "colors": [
+      "Chestnut"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Meridian",
+      "Finish / format": "Quartz",
+      "Colour": "Chestnut"
+    },
+    "popularity": 71,
+    "createdAt": "2026-10-02"
+  },
+  {
+    "id": "AM-024",
+    "name": "Midnight Dial Watch",
+    "category": "Watches",
+    "brand": "Meridian",
+    "price": 3799,
+    "originalPrice": 5399,
+    "discount": 30,
+    "rating": 4.3,
+    "stock": 21,
+    "description": "An understated black face framed by a slim contemporary case.",
+    "images": [
+      "assets/images/product-24.webp",
+      "assets/images/product-24-detail.webp"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Meridian",
+      "Finish / format": "Quartz",
+      "Colour": "Black"
+    },
+    "popularity": 90,
+    "createdAt": "2026-09-15"
+  },
+  {
+    "id": "AM-025",
+    "name": "Rose Classic Watch",
+    "category": "Watches",
+    "brand": "Meridian",
+    "price": 4199,
+    "originalPrice": 5099,
+    "discount": 18,
+    "rating": 4.8,
+    "stock": 34,
+    "description": "A delicate rose-tone watch with a polished case.",
+    "images": [
+      "assets/images/product-25.webp",
+      "assets/images/product-25-detail.webp"
+    ],
+    "colors": [
+      "Rose gold"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Meridian",
+      "Finish / format": "Quartz",
+      "Colour": "Rose gold"
+    },
+    "popularity": 109,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "AM-027",
+    "name": "Green Tea Face Cream",
+    "category": "Beauty Products",
+    "brand": "Botanique",
+    "price": 749,
+    "originalPrice": 1949,
+    "discount": 62,
+    "rating": 4.1,
+    "stock": 4,
+    "description": "A daily moisturising cream in a reusable compact jar.",
+    "images": [
+      "assets/images/product-27.webp",
+      "assets/images/product-27-detail.webp"
+    ],
+    "colors": [
+      "Sage"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Botanique",
+      "Finish / format": "50 ml",
+      "Colour": "Sage"
+    },
+    "popularity": 147,
+    "createdAt": "2026-11-10"
+  },
+  {
+    "id": "AM-028",
+    "name": "Soft Blush Lip Colour",
+    "category": "Beauty Products",
+    "brand": "Botanique",
+    "price": 599,
+    "originalPrice": 1299,
+    "discount": 54,
+    "rating": 4.5,
+    "stock": 17,
+    "description": "A creamy lipstick with a smooth satin finish.",
+    "images": [
+      "assets/images/product-28.webp",
+      "assets/images/product-28-detail.webp"
+    ],
+    "colors": [
+      "Blush"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Botanique",
+      "Finish / format": "4 g",
+      "Colour": "Blush"
+    },
+    "popularity": 166,
+    "createdAt": "2026-10-24"
+  },
+  {
+    "id": "AM-029",
+    "name": "Amber Eau de Parfum",
+    "category": "Beauty Products",
+    "brand": "Botanique",
+    "price": 1899,
+    "originalPrice": 3499,
+    "discount": 46,
+    "rating": 4.7,
+    "stock": 30,
+    "description": "Warm amber and soft woody notes in a sculptural glass bottle.",
+    "images": [
+      "assets/images/product-29.webp",
+      "assets/images/product-29-detail.webp"
+    ],
+    "colors": [
+      "Amber"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Botanique",
+      "Finish / format": "50 ml",
+      "Colour": "Amber"
+    },
+    "popularity": 185,
+    "createdAt": "2026-10-07"
+  },
+  {
+    "id": "AM-030",
+    "name": "Nourishing Hand Lotion",
+    "category": "Beauty Products",
+    "brand": "Botanique",
+    "price": 499,
+    "originalPrice": 1399,
+    "discount": 64,
+    "rating": 3.9,
+    "stock": 43,
+    "description": "A travel-friendly hand lotion with a soft botanical fragrance.",
+    "images": [
+      "assets/images/product-30.webp",
+      "assets/images/product-30-detail.webp"
+    ],
+    "colors": [
+      "Cream"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Botanique",
+      "Finish / format": "75 ml",
+      "Colour": "Cream"
+    },
+    "popularity": 204,
+    "createdAt": "2026-09-20"
+  },
+  {
+    "id": "AM-032",
+    "name": "Fireside Amber Candle",
+    "category": "Home and Living",
+    "brand": "Terra Studio",
+    "price": 799,
+    "originalPrice": 1999,
+    "discount": 60,
+    "rating": 4.3,
+    "stock": 13,
+    "description": "A warm scented candle in an amber vessel.",
+    "images": [
+      "assets/images/product-32.webp",
+      "assets/images/product-32-detail.webp"
+    ],
+    "colors": [
+      "Amber"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Terra Studio",
+      "Finish / format": "Soy wax blend",
+      "Colour": "Amber"
+    },
+    "popularity": 26,
+    "createdAt": "2026-08-17"
+  },
+  {
+    "id": "AM-033",
+    "name": "Studio Stoneware Mug",
+    "category": "Home and Living",
+    "brand": "Terra Studio",
+    "price": 649,
+    "originalPrice": 1349,
+    "discount": 52,
+    "rating": 4.8,
+    "stock": 26,
+    "description": "A hand-finished everyday mug with a comfortable handle.",
+    "images": [
+      "assets/images/product-33.webp",
+      "assets/images/product-33-detail.webp"
+    ],
+    "colors": [
+      "Sage"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Terra Studio",
+      "Finish / format": "Stoneware",
+      "Colour": "Sage"
+    },
+    "popularity": 45,
+    "createdAt": "2026-11-15"
+  },
+  {
+    "id": "AM-034",
+    "name": "Pleated Table Lamp",
+    "category": "Home and Living",
+    "brand": "Terra Studio",
+    "price": 2499,
+    "originalPrice": 4099,
+    "discount": 39,
+    "rating": 4.6,
+    "stock": 39,
+    "description": "A softly pleated shade brings diffused light to a bedside or reading corner.",
+    "images": [
+      "assets/images/product-34.webp",
+      "assets/images/product-34-detail.webp"
+    ],
+    "colors": [
+      "Ivory"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Terra Studio",
+      "Finish / format": "Fabric shade",
+      "Colour": "Ivory"
+    },
+    "popularity": 64,
+    "createdAt": "2026-10-29"
+  },
+  {
+    "id": "AM-035",
+    "name": "Washed Linen Cushion",
+    "category": "Home and Living",
+    "brand": "Terra Studio",
+    "price": 899,
+    "originalPrice": 1799,
+    "discount": 50,
+    "rating": 4.1,
+    "stock": 52,
+    "description": "A textured cushion with a removable envelope cover.",
+    "images": [
+      "assets/images/product-35.webp",
+      "assets/images/product-35-detail.webp"
+    ],
+    "colors": [
+      "Sand"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Terra Studio",
+      "Finish / format": "Linen blend",
+      "Colour": "Sand"
+    },
+    "popularity": 83,
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "AM-037",
+    "name": "Fold Leather Wallet",
+    "category": "Accessories",
+    "brand": "Atelier Rue",
+    "price": 1199,
+    "originalPrice": 2399,
+    "discount": 50,
+    "rating": 4.7,
+    "stock": 22,
+    "description": "A compact bifold wallet with organised card slots.",
+    "images": [
+      "assets/images/product-37.webp",
+      "assets/images/product-37-detail.webp"
+    ],
+    "colors": [
+      "Chestnut",
+      "Midnight"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Atelier Rue",
+      "Finish / format": "Leather",
+      "Colour": "Chestnut"
+    },
+    "popularity": 121,
+    "createdAt": "2026-09-08"
+  },
+  {
+    "id": "AM-038",
+    "name": "Tortoise Frame Sunglasses",
+    "category": "Accessories",
+    "brand": "Atelier Rue",
+    "price": 1499,
+    "originalPrice": 2199,
+    "discount": 32,
+    "rating": 3.9,
+    "stock": 35,
+    "description": "Warm tortoiseshell frames with a timeless silhouette.",
+    "images": [
+      "assets/images/product-38.webp",
+      "assets/images/product-38-detail.webp"
+    ],
+    "colors": [
+      "Tortoise"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Atelier Rue",
+      "Finish / format": "Acetate",
+      "Colour": "Tortoise"
+    },
+    "popularity": 140,
+    "createdAt": "2026-08-22"
+  },
+  {
+    "id": "AM-039",
+    "name": "Market Canvas Tote",
+    "category": "Accessories",
+    "brand": "Atelier Rue",
+    "price": 799,
+    "originalPrice": 2399,
+    "discount": 67,
+    "rating": 4.9,
+    "stock": 48,
+    "description": "A roomy canvas carryall with reinforced handles.",
+    "images": [
+      "assets/images/product-39.webp",
+      "assets/images/product-39-detail.webp"
+    ],
+    "colors": [
+      "Ecru",
+      "Midnight"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Atelier Rue",
+      "Finish / format": "Cotton canvas",
+      "Colour": "Ecru"
+    },
+    "popularity": 159,
+    "createdAt": "2026-11-20"
+  },
+  {
+    "id": "AM-040",
+    "name": "Mini Gold Hoops",
+    "category": "Accessories",
+    "brand": "Atelier Rue",
+    "price": 699,
+    "originalPrice": 1599,
+    "discount": 56,
+    "rating": 4.3,
+    "stock": 5,
+    "description": "Lightweight hoop earrings with a polished finish.",
+    "images": [
+      "assets/images/product-40.webp",
+      "assets/images/product-40-detail.webp"
+    ],
+    "colors": [
+      "Gold"
+    ],
+    "sizes": [],
+    "specifications": {
+      "Collection": "Atelier Rue",
+      "Finish / format": "Gold-tone brass",
+      "Colour": "Gold"
+    },
+    "popularity": 178,
+    "createdAt": "2026-11-03"
+  }
+]

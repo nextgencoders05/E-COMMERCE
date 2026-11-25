@@ -1,0 +1,93 @@
+.admin {
+  display: grid;
+  grid-template-columns: 205px minmax(0, 1fr);
+  min-height: 75vh;
+}
+.admin > aside {
+  padding: 25px 14px;
+  background: #193b2f;
+  color: white;
+}
+.admin > aside button {
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+  color: #f3f3e9;
+  border: 0;
+  background: none;
+  font-weight: 400;
+}
+.admin > aside .chosen,
+.admin > aside button:hover {
+  background: #365547;
+}
+.adminbody {
+  padding: 28px clamp(16px, 3vw, 50px);
+  min-width: 0;
+}
+.stats,
+.charts {
+  display: grid;
+  gap: 12px;
+  margin-bottom: 18px;
+}
+.stats {
+  grid-template-columns: repeat(3, 1fr);
+}
+.charts {
+  grid-template-columns: 1fr 1fr;
+}
+.stats strong {
+  display: block;
+  font: 32px Georgia;
+}
+.stats .panel,
+.charts .panel {
+  margin: 0;
+  min-width: 0;
+}
+.plot {
+  height: 225px;
+}
+.adminrow img {
+  width: 52px;
+  border-radius: 6px;
+}
+.adminrow > div {
+  margin-right: auto;
+}
+.adminrow small {
+  font-size: 12px;
+}
+.adminrow button {
+  padding: 5px 10px;
+}
+@media (max-width: 760px) {
+  .admin {
+    display: block;
+  }
+  .admin > aside {
+    display: flex;
+    overflow: auto;
+    padding: 8px;
+  }
+  .admin > aside h3 {
+    display: none;
+  }
+  .admin > aside button {
+    width: auto;
+    white-space: nowrap;
+  }
+  .adminbody {
+    padding: 18px 4%;
+  }
+  .charts {
+    grid-template-columns: 1fr;
+  }
+  .stats {
+    grid-template-columns: 1fr 1fr;
+  }
+  .adminrow {
+    flex-wrap: wrap;
+  }
+}
